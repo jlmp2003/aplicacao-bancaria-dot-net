@@ -1,0 +1,12 @@
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfoInputs.cache
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfo.cs
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csproj.CoreCompileInputs.cache
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.exe
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.deps.json
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.json
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.dev.json
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.dll
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.pdb
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.dll
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.pdb
+C:\Users\JLMP\source\repos\Dio.Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.genruntimeconfig.cache
